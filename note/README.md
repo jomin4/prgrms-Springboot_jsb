@@ -11,6 +11,8 @@
 | 05 | 레포지토리 + 테스트 | JpaRepository, 저장/조회, JUnit, 바인딩 값 | ✅ 완료 |
 | 06 | 서비스 계층 | @Service, DI(생성자 주입), DataNotFoundException | ✅ 완료 |
 | 07 | 화면(Thymeleaf) | Controller + 템플릿, Model, th:each, 목록/상세 | ✅ 완료 |
-| 08 | 답변 기능 | @OneToMany, 답변 폼/컨트롤러 | ⬜ 예정 |
+| 08 | 답변 기능 | @OneToMany 양방향, @PostMapping, PRG 패턴 | ✅ 완료 |
+| 09 | JPA 쿼리 메서드 | findBySubject 등 이름 기반 쿼리 | ⬜ 예정 |
+| 10 | 마무리 | 루트 리다이렉트, 폴리시 | ⬜ 예정 |
 
 > 각 단원 상세는 `note/NN-제목.md` 참고.
