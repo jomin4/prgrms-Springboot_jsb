@@ -23,6 +23,10 @@ bin/
 *.class
 *.log
 
+### H2 Database ###
+*.mv.db
+*.trace.db
+
 ### OS ###
 .DS_Store
 Thumbs.db
