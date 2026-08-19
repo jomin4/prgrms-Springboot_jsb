@@ -10,6 +10,7 @@
 | 04 | 연관관계 | Answer 엔티티, @ManyToOne(1:N), 외래키 | ✅ 완료 |
 | 05 | 레포지토리 + 테스트 | JpaRepository, 저장/조회, JUnit, 바인딩 값 | ✅ 완료 |
 | 06 | 서비스 계층 | @Service, DI(생성자 주입), DataNotFoundException | ✅ 완료 |
-| 07 | 화면(Thymeleaf) | Controller + 템플릿, 질문 목록/상세 | ⬜ 예정 |
+| 07 | 화면(Thymeleaf) | Controller + 템플릿, Model, th:each, 목록/상세 | ✅ 완료 |
+| 08 | 답변 기능 | @OneToMany, 답변 폼/컨트롤러 | ⬜ 예정 |
 
 > 각 단원 상세는 `note/NN-제목.md` 참고.
