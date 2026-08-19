@@ -5,6 +5,7 @@
 | 단원 | 제목 | 핵심 개념 | 상태 |
 |------|------|-----------|------|
 | 01 | 프로젝트 뼈대 | Spring Boot 부팅, Gradle, @SpringBootApplication | ✅ 완료 |
-| 02 | 첫 컨트롤러 | @Controller, 요청 매핑, 브라우저 응답 | ⬜ 예정 |
+| 02 | 첫 컨트롤러 | @Controller, @GetMapping, @ResponseBody, 요청/응답 왕복 | ✅ 완료 |
+| 03 | JPA + 엔티티 | Question 엔티티, JPA, DB 테이블 자동 생성 | ⬜ 예정 |
 
 > 각 단원 상세는 `note/NN-제목.md` 참고.
