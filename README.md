@@ -15,3 +15,4 @@ Spring Boot 학습 프로젝트 — 강사 jhs512의 SBB(질문/답변 게시판
 | 3 | JPA + 엔티티 (Question, DB 테이블 자동 생성) | ✅ 완료 |
 | 4 | 연관관계 (Answer, @ManyToOne, 외래키) | ✅ 완료 |
 | 5 | 레포지토리 + 테스트 (JpaRepository, 저장/조회) | ✅ 완료 |
+| 6 | 서비스 계층 (@Service, DI, 예외 처리) | ✅ 완료 |

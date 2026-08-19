@@ -9,6 +9,7 @@
 | 03 | JPA + 엔티티 | Question 엔티티, JPA/H2, DB 테이블 자동 생성, 프로필 | ✅ 완료 |
 | 04 | 연관관계 | Answer 엔티티, @ManyToOne(1:N), 외래키 | ✅ 완료 |
 | 05 | 레포지토리 + 테스트 | JpaRepository, 저장/조회, JUnit, 바인딩 값 | ✅ 완료 |
-| 06 | 서비스 계층 | @Service, 비즈니스 로직 분리 | ⬜ 예정 |
+| 06 | 서비스 계층 | @Service, DI(생성자 주입), DataNotFoundException | ✅ 완료 |
+| 07 | 화면(Thymeleaf) | Controller + 템플릿, 질문 목록/상세 | ⬜ 예정 |
 
 > 각 단원 상세는 `note/NN-제목.md` 참고.
