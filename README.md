@@ -13,3 +13,4 @@ Spring Boot 학습 프로젝트 — 강사 jhs512의 SBB(질문/답변 게시판
 | 1 | 프로젝트 뼈대 | ✅ 완료 |
 | 2 | 첫 컨트롤러 (@Controller, 요청/응답) | ✅ 완료 |
 | 3 | JPA + 엔티티 (Question, DB 테이블 자동 생성) | ✅ 완료 |
+| 4 | 연관관계 (Answer, @ManyToOne, 외래키) | ✅ 완료 |
