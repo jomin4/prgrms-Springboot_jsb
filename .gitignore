@@ -26,6 +26,8 @@ bin/
 ### H2 Database ###
 *.mv.db
 *.trace.db
+*.lock.db
+db_dev*
 
 ### OS ###
 .DS_Store
